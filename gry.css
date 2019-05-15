@@ -17,21 +17,51 @@ color:#7FFFD4;
 
 }
 div1
-{ text-align:right;
+{ text-align:center;
   font-size: 15pt;
   font-family: Arial;
+  vertical-align:super;
+  text-indent:40px;
+  margin:55px;
+  padding:45px;
+  text-align: left|right|center|justify;
 }
   div2
   {text-align:right;
   font-size: 15pt;
   font-family: Arial;
+  vertical-align:super;
+  text-indent:40px;
+  margin:55px;
+  padding:45px;
+  text-align: left|right|center|justify;
 }
 div3
 {text-align:right;
   font-size: 15pt;
   font-family: Arial;
+  vertical-align:super;
+  text-indent:40px;
+  margin:55px;
+  padding:45px;
+  text-align: left|right|center|justify;
 }
 div4
 {text-align:right;
   font-size: 15pt;
   font-family: Arial;
+  vertical-align:super;
+  text-indent:40px;
+  margin:55px;
+  padding:45px;
+  text-align: left|right|center|justify;
+}
+
+*{front-family:"Bookman Old Style";
+font-style:oblique;}
+body{background: linear-gradient(to top right,#00FF00,#FFFF00,#FF69B4);} 
+.menu{list-style:none;
+margin:2;
+padding-left: 30px;
+background:linear-gradient(to top right,left,#DDA0DD, #BA55D30;} 
+.left{background:#32CD32;
